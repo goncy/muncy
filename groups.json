@@ -1,0 +1,25 @@
+[{
+  "id": "a",
+  "teams": ["qatar", "ecuador", "senegal", "netherlands"]
+}, {
+  "id": "b",
+  "teams": ["england", "iran", "usa", "wales"]
+}, {
+  "id": "c",
+  "teams": ["argentina", "arabia", "mexico", "poland"]
+}, {
+  "id": "d",
+  "teams": ["france", "australia", "denmark", "tunisia"]
+}, {
+  "id": "e",
+  "teams": ["spain", "new zeland", "germany", "japan"]
+}, {
+  "id": "f",
+  "teams": ["belgium", "canada", "morocco", "croatia"]
+}, {
+  "id": "g",
+  "teams": ["brazil", "serbia", "switzerland", "cameroon"]
+}, {
+  "id": "h",
+  "teams": ["portugal", "ghana", "uruguay", "south korea"]
+}]
