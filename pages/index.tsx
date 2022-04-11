@@ -223,7 +223,7 @@ const Home: NextPage = () => {
           a={chart.e1}
           b={chart.f2}
           gridArea="e1f2"
-          title="A1 VS F2"
+          title="E1 VS F2"
           onClick={(team) => handleSetChart({w5: team})}
         />
         <Match
